@@ -15,4 +15,5 @@ Sets:	Easy(7413), Difficult (923)
 Image Cropping:	Final Image Size used to train CNN 128x56 – cropped top 16 pixels-                                        
 
 To download the data visit https://app.box.com/s/qm5jp9va9dck218jytbse1fy85knqz8s 
+
 For further questions contact kgkolias93@gmail.com.
